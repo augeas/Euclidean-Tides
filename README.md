@@ -17,6 +17,8 @@ to TRS sockets, you get two pairs of Euclidean of Euclidean rhythms.
 
 If you don't, you just get a blinkenlicht.
 
+![breadboard with breakout board and TRS sockets](https://raw.githubusercontent.com/augeas/Euclidean-Tides/master/breadboard.jpeg)
+
 Three integers produce two rhythms for each TRS socket, select the parameter
 with joystick left/right and alter them with joystick up/down.
 
