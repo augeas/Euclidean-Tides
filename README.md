@@ -1,6 +1,6 @@
 
 # Euclidean Tides
-([Eucliean rhythms](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf) on the [EMFcamp 2022](https://www.emfcamp.org 2022)
+([Eucliean rhythms](http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf) on the [EMFcamp 2022](https://www.emfcamp.org)
 
 [Tidal Badge](https://badge.emfcamp.org/wiki/Main_Page#EMF2022_-_TiDAL))
 
@@ -21,7 +21,7 @@ If you don't, you just get a [blinkenlicht](https://en.wikipedia.org/wiki/Blinke
 
 ![breadboard with breakout board and TRS sockets](https://raw.githubusercontent.com/augeas/Euclidean-Tides/master/breadboard.jpeg)
 
-A set of three integers produce two rhythms for each TRS socket, select the
+A set of three integers produces two rhythms for each TRS socket, select the
 parameter with joystick left/right and alter them with joystick up/down.
 Stop and start the sequence with joystick centre.
 
